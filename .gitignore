@@ -1,0 +1,5 @@
+bin\
+*.aux
+bin/
+__pycache__\
+
